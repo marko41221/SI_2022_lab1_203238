@@ -1,0 +1,15 @@
+1.Napravi master repo na github
+2.Dodadi README.md so ime prezime i indeks
+3.Kloniraj repo (git clone https://github.com/marko41221/SI_2022_lab1_203238.git)
+4.cd SI_2022_lab1_203238
+5.git status(on branch master....branch is up to date with origin/master)
+6.Napravi shopping_list.txt
+7.git status(txt to ke bide untracked)
+8.git add shopping_list.txt
+9.git commit -m "Add 5 items to the shopping list"
+10.Napravi promeni vo shopping list.txt
+11.git status(txt to ke bide modified)
+12.git add shopping_list.txt
+13.git commit -m "Add quantities to the items"
+14.git checkout -b branch1
+15.git checkout -b branch2
